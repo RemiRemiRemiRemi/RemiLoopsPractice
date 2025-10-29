@@ -1,4 +1,4 @@
-//Remi-Laurent Guy | 10/29/25 | Guess the Number
+//Remi-Laurent Guy | 10/29/25 | Hailstone
 import java.util.*;
 public class Hailstone {
     public static void main(String[] args) {
